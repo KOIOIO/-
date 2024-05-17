@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\DataStructure\数组栈2\数组栈2\template_Stack.h(169,1): error C2106: “*=”: 左操作数必须为左值
+D:\DataStructure\数组栈2\数组栈2\main.cpp(12,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  template_Stack.cpp
+D:\DataStructure\数组栈2\数组栈2\template_Stack.h(169,1): error C2106: “*=”: 左操作数必须为左值
+  正在生成代码...
