@@ -1,0 +1,3 @@
+﻿  digraph.cpp
+D:\DataStructure\邻接多重表2\邻接多重表2\digraph.cpp(76): warning C4715: “digraph::gethead”: 不是所有的控件路径都返回值
+  邻接多重表2.vcxproj -> D:\DataStructure\邻接多重表2\Debug\邻接多重表2.exe
