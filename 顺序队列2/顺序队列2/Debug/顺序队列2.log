@@ -1,0 +1,14 @@
+﻿  main.cpp
+D:\DataStructure\顺序队列2\顺序队列2\QUEUE.h(35,8): error C3863: 不可指定数组类型“T [8]”
+          with
+          [
+              T=int
+          ]
+D:\DataStructure\顺序队列2\顺序队列2\QUEUE.h(31): message : 在编译 类 模板 成员函数“Queue<int>::Queue(void)”时
+D:\DataStructure\顺序队列2\顺序队列2\main.cpp(4): message : 查看对正在编译的函数 模板 实例化“Queue<int>::Queue(void)”的引用
+D:\DataStructure\顺序队列2\顺序队列2\main.cpp(4): message : 查看对正在编译的 类 模板 实例化“Queue<int>”的引用
+D:\DataStructure\顺序队列2\顺序队列2\QUEUE.h(41,1): warning C4154: 删除数组表达式；转换到提供的指针
+D:\DataStructure\顺序队列2\顺序队列2\QUEUE.h(40): message : 在编译 类 模板 成员函数“Queue<int>::~Queue(void)”时
+D:\DataStructure\顺序队列2\顺序队列2\main.cpp(4): message : 查看对正在编译的函数 模板 实例化“Queue<int>::~Queue(void)”的引用
+  QUEUE.cpp
+  正在生成代码...
